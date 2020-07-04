@@ -15,7 +15,7 @@ The disease classes include;
 - Cassava Bacterial Blight
 - Cassava Green Mite
 
-This repo contains various things we tried during the project. A report on our findings can be found in the  `Report on Cassava Disease Classification.pdf`
+This repo contains various things we tried during the project. A report on our findings can be found in the  `Report on Cassava Disease Classification.pdf` file.
 
 ## Getting Started
 
