@@ -1,8 +1,8 @@
 # Cassava Disease Classification
 
-> Classify cassava plants as belonging to one of 4 various disease classes or healthy
+> Classify cassava plants as belonging to one of 4 various diseases or healthy
 
-![Cassava Diseases](cassava11-19-07.png "Cassava Diseases")
+![Cassava Diseases](cassava11-18-07.png "Cassava Diseases")
 
 ## Overview
 
